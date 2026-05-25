@@ -6,7 +6,5 @@ public class HelloWorld {
     return "hello world";
   }
 
-  public int getYear() {
-    return 2025;
-  }
+  public int getYear() { return 2026; }
 }
